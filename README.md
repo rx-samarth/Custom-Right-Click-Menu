@@ -13,10 +13,6 @@ The Context Menu Customizer is a collection of reg files that add custom options
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Disclaimer
 
 Please note that modifying the Windows registry can have unintended consequences. It is recommended to create a backup of your registry before applying any changes. The Context Menu Customizer is provided as-is, without any warranty or guarantee. Use it at your own risk.
