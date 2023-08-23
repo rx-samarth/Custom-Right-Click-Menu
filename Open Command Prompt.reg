@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\cmd]
+@="Open Command Prompt"
+"Icon"="cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\cmd\command]
+@="cmd.exe /f:on /s /k pushd \"%V\" && echo [CMD]Enter popd anytime you want to navigate back to this dir and you can use CTRL+D for directory name completion. && title Command Prompt"
