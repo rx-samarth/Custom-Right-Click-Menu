@@ -1,6 +1,6 @@
 # Custom-Right-Click-Menu
 
-The Context Menu Customizer is a collection of reg files that add custom options/items to the right-click menu on Windows. This allows you to enhance your right-click menu with additional functionality and customization options.
+This is a collection of reg files that add custom options/items to the right-click menu on Windows. This allows you to enhance your right-click menu with additional functionality and customization options.
 
 ## Usage
 
